@@ -1,0 +1,29 @@
+{
+  "name": "@here/harp-fontcatalog",
+  "version": "0.1.0",
+  "description": "Font catalog for harp.gl",
+  "scripts": {
+    "test" : "echo 'Font catalog for harp.gl'",
+    "prepack": "harp-fontcatalog-generator -i ./resources-dev/DefaultFonts.json -o ./resources"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heremaps/harp-fontcatalog.git"
+  },
+  "author": {
+    "name": "HERE Europe B.V.",
+    "url": "https://here.com"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "(Apache-2.0 AND (Apache-2.0 OR OFL-1.1 OR GPL-2.0-only WITH Font-exception-2.0))",
+  "engines": {
+    "node": ">=9.11.1",
+    "npm": ">=5.8.0",
+    "yarn": ">=1.11.1"
+  },
+  "dependencies": {
+    "@here/harp-fontcatalog-generator": "^0.1.0"
+  }
+}
