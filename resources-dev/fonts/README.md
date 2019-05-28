@@ -13,12 +13,6 @@ The fonts are individually licensed as follows:
 
 * License: [FiraGO-MapLowRes.LICENSE](FiraGO-MapLowRes.LICENSE)
 
-## Noto
-
-* Imported from: https://github.com/googlei18n/noto-fonts
-* SHA: `d7af81e614086435102cca95961b141b3530a027`
-* License: [Noto.LICENSE](Noto.LICENSE)
-
 ## Source Han Sans
 
 * Imported from: https://github.com/adobe-fonts/source-han-sans
