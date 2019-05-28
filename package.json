@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Font catalog for harp.gl",
   "scripts": {
-    "test" : "echo 'Font catalog for harp.gl'",
-    "prepack": "harp-fontcatalog-generator -i ./resources-dev/DefaultFonts.json -o ./resources"
+    "test": "echo 'Font catalog for harp.gl'",
+    "prepack": "harp-fontcatalog-generator -v -i ./resources-dev/DefaultFonts.json -o ./resources"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
     "yarn": ">=1.11.1"
   },
   "dependencies": {
-    "@here/harp-fontcatalog-generator": "^0.1.0"
+    "@here/harp-fontcatalog-generator": "^0.1.1"
   }
 }

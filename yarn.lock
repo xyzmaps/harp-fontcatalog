@@ -10,15 +10,15 @@
     core-js "^2.6.5"
     regenerator-runtime "^0.13.2"
 
-"@here/harp-fontcatalog-generator@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@here/harp-fontcatalog-generator/-/harp-fontcatalog-generator-0.1.0.tgz#5c767900841d4eede7dcaa1b787a5f7c90b0c550"
-  integrity sha512-SnMTXH4J514gQAN3jLo9dE749SkX+oNGIOvYhW8P8ZjzF75gq+VU9QNIvpZo8Mn2FY6MrzOmSIMoMaDBZstzpg==
+"@here/harp-fontcatalog-generator@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@here/harp-fontcatalog-generator/-/harp-fontcatalog-generator-0.1.1.tgz#9b8affe697346b5c0c2b819eacd337105fbce014"
+  integrity sha512-wO/xH4M+kgu5wckRlWfn2Sey32SN0dyNir+1a2e6/FpdqIk5vLwdLN85q+owwJ2BQdShpkUkXMY1lZIMjBRs9A==
   dependencies:
     fontkit "^1.8.0"
     minimist "^1.2.0"
     mkpath "^1.0.0"
-    msdf-bmfont-xml "^2.3.6"
+    msdf-bmfont-xml "^2.4.2"
     unicode-range-json "^1.0.1"
 
 "@jimp/bmp@^0.6.4":
@@ -812,7 +812,7 @@ mkpath@^1.0.0:
   resolved "https://registry.yarnpkg.com/mkpath/-/mkpath-1.0.0.tgz#ebb3a977e7af1c683ae6fda12b545a6ba6c5853d"
   integrity sha1-67Opd+evHGg65v2hK1Raa6bFhT0=
 
-msdf-bmfont-xml@^2.3.6:
+msdf-bmfont-xml@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/msdf-bmfont-xml/-/msdf-bmfont-xml-2.4.2.tgz#0f91cb09213923a38eef7f677ce52ea559b8d798"
   integrity sha512-/evbkVABoR5hDZkz8eVVS41Mteym+npn+rktZmqF7U5ud9IH2uVE1/aburIB/FuTPR7+0WsEzv7Rw2jDb+KGjA==
