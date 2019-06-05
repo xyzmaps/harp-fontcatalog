@@ -10,10 +10,10 @@
     core-js "^2.6.5"
     regenerator-runtime "^0.13.2"
 
-"@here/harp-fontcatalog-generator@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@here/harp-fontcatalog-generator/-/harp-fontcatalog-generator-0.1.1.tgz#9b8affe697346b5c0c2b819eacd337105fbce014"
-  integrity sha512-wO/xH4M+kgu5wckRlWfn2Sey32SN0dyNir+1a2e6/FpdqIk5vLwdLN85q+owwJ2BQdShpkUkXMY1lZIMjBRs9A==
+"@here/harp-fontcatalog-generator@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@here/harp-fontcatalog-generator/-/harp-fontcatalog-generator-0.1.2.tgz#5544a2787a75610a8a935c9c49e7b2656d1d2991"
+  integrity sha512-mS9DFI8zHhRdbFxQrU+MpNWY/0w/sBMrDkGjV7bN6ngQds7ULvTawKwpMhEPPxzi2DdN95RUcVlkv7dpIoWiaw==
   dependencies:
     fontkit "^1.8.0"
     minimist "^1.2.0"
