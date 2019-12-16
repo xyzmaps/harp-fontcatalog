@@ -23,7 +23,7 @@
     "npm": ">=5.8.0",
     "yarn": ">=1.11.1"
   },
-  "dependencies": {
+  "devDependencies": {
     "@here/harp-fontcatalog-generator": "^0.1.3"
   }
 }
