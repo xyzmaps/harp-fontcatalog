@@ -29,3 +29,7 @@ The fonts are individually licensed as follows:
 ## Sign Text Narrow
 
 * License: [SignTextNarrow.LICENSE](SignTextNarrow.LICENSE)
+
+## Noto Sans Armenian
+
+* License: [NotoSansArmenian.LICENSE](NotoSansArmenian.LICENSE)

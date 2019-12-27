@@ -160,6 +160,13 @@
                 "Miscellaneous Symbols",
                 "Private Use Area"
             ]
+        },
+        {
+            "name": "NotoSansArmenian_Regular",
+            "blocks": [
+                "Alphabetic Presentation Form",
+                "Armenian"
+            ]
         }
     ]
 }
