@@ -167,6 +167,15 @@
                 "Alphabetic Presentation Form",
                 "Armenian"
             ]
+        },
+        {
+            "name": "NotoSansGeorgian_Regular",
+            "blocks": [
+                "Combining Diacritical Marks",
+                "Georgian",
+                "Georgian Extended",
+                "Georgian Supplement"
+            ]
         }
     ]
 }

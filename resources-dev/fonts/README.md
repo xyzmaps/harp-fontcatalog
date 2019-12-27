@@ -33,3 +33,7 @@ The fonts are individually licensed as follows:
 ## Noto Sans Armenian
 
 * License: [NotoSansArmenian.LICENSE](NotoSansArmenian.LICENSE)
+
+## Noto Sans Georgian
+
+* License: [NotoSansGeorgian.LICENSE](NotoSansGeorgian.LICENSE)
