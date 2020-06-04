@@ -24,6 +24,6 @@
     "yarn": ">=1.11.1"
   },
   "devDependencies": {
-    "@here/harp-fontcatalog-generator": "^0.1.3"
+    "@here/harp-fontcatalog-generator": "^0.1.4"
   }
 }
