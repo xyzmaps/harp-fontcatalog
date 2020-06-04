@@ -176,6 +176,18 @@
                 "Georgian Extended",
                 "Georgian Supplement"
             ]
+        },
+        {
+            "name": "NotoSansMyanmar_Regular",
+            "blocks": [
+                "Basic Latin",
+                "Latin-1 Supplement",
+                "Myanmar",
+                "Kayah Li",
+                "Myanmar Extended-B",
+                "Myanmar Extended-A",
+                "Variation Selectors"
+            ]
         }
     ]
 }

@@ -37,3 +37,7 @@ The fonts are individually licensed as follows:
 ## Noto Sans Georgian
 
 * License: [NotoSansGeorgian.LICENSE](NotoSansGeorgian.LICENSE)
+
+## Noto Sans Myanmar
+
+* License: [NotoSansMyanmar.LICENSE](NotoSansMyanmar.LICENSE)
