@@ -1,6 +1,6 @@
 {
   "name": "@here/harp-fontcatalog",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Font catalog for harp.gl",
   "scripts": {
     "test": "echo 'Font catalog for harp.gl'",
