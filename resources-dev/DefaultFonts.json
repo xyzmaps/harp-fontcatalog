@@ -188,6 +188,14 @@
                 "Myanmar Extended-A",
                 "Variation Selectors"
             ]
+        },
+        {
+            "name": "NotoSansKhmer_Regular",
+            "blocks": [
+                "Khmer",
+                "Khmer Symbols"
+            ]
         }
+
     ]
 }
