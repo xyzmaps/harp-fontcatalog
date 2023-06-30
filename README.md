@@ -2,7 +2,7 @@
 
 This module contains a font catalog to be used with the `harp.gl` renderer.
 
-For information about coding style or contributing, please refer to the information main project [harp.gl](https://github.com/heremaps/harp.gl).
+For information about coding style or contributing, please refer to the information main project [harp.gl](https://github.com/xyzmaps/harp.gl).
 
 ## Development
 
@@ -23,7 +23,7 @@ to download and install all required packages and set up the yarn workspace.
 
 ### FontCatalog Generation
 
-Please see the full documentation [here](https://github.com/heremaps/harp-fontcatalog-generator).
+Please see the full documentation [here](https://github.com/xyzmaps/harp-fontcatalog-generator).
 
 ## License
 
