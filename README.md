@@ -1,4 +1,4 @@
-# @here/harp-fontcatalog [![Build Status](https://travis-ci.com/heremaps/harp-fontcatalog.svg?branch=master)](https://travis-ci.com/heremaps/harp-fontcatalog)
+# @xyzmaps/harp-fontcatalog 
 
 This module contains a font catalog to be used with the `harp.gl` renderer.
 
@@ -26,6 +26,8 @@ to download and install all required packages and set up the yarn workspace.
 Please see the full documentation [here](https://github.com/heremaps/harp-fontcatalog-generator).
 
 ## License
+
+Copyright (C) 2023 XYZ maps contributors
 
 Copyright (C) 2018-2019 HERE Europe B.V.
 

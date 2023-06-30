@@ -1,5 +1,5 @@
 {
-  "name": "@here/harp-fontcatalog",
+  "name": "@xyzmaps/harp-fontcatalog",
   "version": "0.1.6",
   "description": "Font catalog for harp.gl",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heremaps/harp-fontcatalog.git"
+    "url": "https://github.com/xyzmaps/harp-fontcatalog.git"
   },
   "author": {
     "name": "HERE Europe B.V.",
@@ -24,6 +24,6 @@
     "yarn": ">=1.11.1"
   },
   "devDependencies": {
-    "@here/harp-fontcatalog-generator": "^0.1.4"
+    "@xyzmaps/harp-fontcatalog-generator": "^0.1.4"
   }
 }
