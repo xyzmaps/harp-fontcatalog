@@ -1,6 +1,6 @@
 {
   "name": "@xyzmaps/harp-fontcatalog",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "Font catalog for harp.gl",
   "scripts": {
     "test": "echo 'Font catalog for harp.gl'",
@@ -24,6 +24,6 @@
     "yarn": ">=1.11.1"
   },
   "devDependencies": {
-    "@xyzmaps/harp-fontcatalog-generator": "^0.1.4"
+    "@xyzmaps/harp-fontcatalog-generator": "^0.2.0"
   }
 }
